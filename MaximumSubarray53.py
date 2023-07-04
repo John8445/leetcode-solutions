@@ -14,3 +14,4 @@ class Solution(object):
             maxSub = max(maxSub, curSum)
         
         return maxSub
+    
